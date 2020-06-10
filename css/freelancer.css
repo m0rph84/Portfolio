@@ -109,6 +109,13 @@ header .overlay {
   z-index: 1;
 }
 
+header .quotes {
+    font-family: 'Indie Flower', cursive;
+    text-align: center;
+    white-space: pre-line;
+    font-size: 1em;
+}
+
 /* @media (pointer: coarse) and (hover: none) {
   header {
     background: url('/img/codeKnight.PNG') black no-repeat center center scroll;
@@ -11015,8 +11022,6 @@ a.text-dark:focus {
   display: block;
   margin: 0;
   transition: top 0.3s ease, opacity 0.3s ease;
-  vertical-align: middle;
-  vertical-align: baseline;
   opacity: 0;
 }
 
