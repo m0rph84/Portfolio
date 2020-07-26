@@ -109,12 +109,12 @@ header .overlay {
   z-index: 1;
 }
 
-header .quotes {
+/* header .quotes {
     font-family: 'Indie Flower', cursive;
     text-align: center;
     white-space: pre-line;
     font-size: 1em;
-}
+} */
 
 /* @media (pointer: coarse) and (hover: none) {
   header {
@@ -162,6 +162,7 @@ h6 {
 p {
   margin-top: 0;
   margin-bottom: 1rem;
+  font-size: 1.2rem;
 }
 
 .p-alt{
@@ -6110,7 +6111,7 @@ a.close.disabled {
   flex-direction: column;
   width: 100%;
   pointer-events: auto;
-  background-color: rgb(223, 245, 250);
+  background-color: rgb(255, 255, 255);
   background-clip: padding-box;
   border: 0 solid rgba(0, 0, 0, 0.2);
   border-radius: 0.75rem;
