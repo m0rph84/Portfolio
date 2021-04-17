@@ -104,7 +104,7 @@ header .overlay {
   left: 0;
   height: 100%;
   width: 100%;
-  background-color: rgb(23, 162, 184);
+  background-color: rgb(0, 175, 240);
   opacity: 0.7;
   z-index: 1;
 }
@@ -6819,7 +6819,7 @@ a.close.disabled {
 }
 
 .bg-primary {
-  background-color: #17a2b8 !important;
+  background-color: #00AFF0 !important;
 }
 
 .bg-white {
@@ -10856,7 +10856,7 @@ a.text-dark:focus {
 }
 
 #mainNav .navbar-nav li.nav-item a.nav-link:hover {
-  color: #17a2b8;
+  color: #00AFF0;
 }
 
 #mainNav .navbar-nav li.nav-item a.nav-link:active,
@@ -10865,7 +10865,7 @@ a.text-dark:focus {
 }
 
 #mainNav .navbar-nav li.nav-item a.nav-link.active {
-  color: #17a2b8;
+  color: #00AFF0;
 }
 
 #mainNav .navbar-toggler {
@@ -10891,14 +10891,14 @@ a.text-dark:focus {
 
   #mainNav .navbar-nav>li.nav-item>a.nav-link.active {
     color: #fff;
-    background: #17a2b8;
+    background: #00AFF0;
   }
 
   #mainNav .navbar-nav>li.nav-item>a.nav-link.active:active,
   #mainNav .navbar-nav>li.nav-item>a.nav-link.active:focus,
   #mainNav .navbar-nav>li.nav-item>a.nav-link.active:hover {
     color: #fff;
-    background: #17a2b8;
+    background: #00AFF0;
   }
 
   #mainNav.navbar-shrink {
@@ -10926,7 +10926,7 @@ a.text-dark:focus {
 }
 
 .masthead .masthead-avatar {
-  width: 15rem;
+  width: 30rem;
 }
 
 @media (min-width: 992px) {
