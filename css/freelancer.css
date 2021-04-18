@@ -95,7 +95,7 @@ header video {
 
 header .container {
   position: relative;
-  z-index: 2;
+  z-index: 4;
 }
 
 header .overlay {
@@ -10946,7 +10946,7 @@ a.text-dark:focus {
 }
 
 .portfolio {
-  margin-bottom: -30px;
+  margin-bottom: 125px;
 }
 
 .portfolio .portfolio-item {
